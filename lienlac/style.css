@@ -1,0 +1,143 @@
+/*-------Liên Hệ------*/
+
+.LH {
+    background-image: url(./img/DN1.jpg);
+    /*chèn ảnh nền cho khối*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier;
+}
+
+* {
+    font-family: 'Courier New', Courier;
+    margin: 0;
+    padding: 0;
+}
+
+.content-section {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    position: relative;
+    color: black;
+}
+
+.section-heading {
+    text-align: center;
+    color: rgb(58, 56, 56);
+    font-size: 14px;
+    margin-top: 30px;
+    letter-spacing: 2px;
+}
+
+#hr-lh {
+    color: rgb(196, 144, 14);
+    width: 60px;
+    margin: auto;
+}
+
+.section-sub-heading {
+    text-align: center;
+    font-size: 25px;
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+}
+
+.section-sub-heading span {
+    color: rgb(196, 144, 14);
+}
+
+.row {
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.row::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.col {
+    float: left;
+    position: relative;
+    padding-left: 20px;
+}
+
+.col-half {
+    width: 50%;
+    position: relative;
+    top: -20px;
+}
+
+
+/*message*/
+
+.col-full {
+    width: 100%;
+    padding-top: 10px;
+}
+
+.contact-content {
+    margin-top: 48px;
+}
+
+.contact-info {
+    font-size: 18px;
+    line-height: 1.5;
+    width: 310px;
+    margin-left: 530px;
+}
+
+.contact-info i[class*="ti-"] {
+    width: 30px;
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+    left: -10px;
+    top: 5px;
+}
+
+.contact-info {
+    position: relative;
+    left: -100px;
+    width: 355px;
+}
+
+.contact-form {
+    font-size: 15px;
+    width: 400px;
+}
+
+.form-control {
+    padding: 10px;
+    border: solid #ccc;
+    width: 95.8%;
+}
+
+.mt-8 {
+    margin-top: 8px !important;
+    padding-bottom: 20px;
+}
+
+.mt-16 {
+    margin-top: 16px !important;
+}
+
+.form-submit-btn {
+    background: rgb(70, 67, 67);
+    opacity: .7;
+    width: 160px;
+    color: #fff;
+    border: 1px solid #333;
+    padding: 10px;
+    position: relative;
+    left: -200px;
+    font-weight: bold;
+}
+
+.form-submit-btn:hover {
+    cursor: pointer;
+    background: rgb(29, 24, 24);
+}
