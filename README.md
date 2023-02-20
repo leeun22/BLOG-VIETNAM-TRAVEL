@@ -2,7 +2,7 @@
 
 <h2> Description </h2>
 Đây là 1 static website đơn giản về du lịch.
-Bằng những kiến thức đã được học và theo yêu cầu tôi đã code website trên và không sử dụng database !
+Bằng những kiến thức đã được học và theo yêu cầu tôi đã code website này. Website Green Travel không sử dụng database !
 
 <h2> Languages </h2>
 • HTML, CSS, Javascrip <br>
