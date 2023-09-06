@@ -1,11 +1,11 @@
 <h1 align="center"> Welcome to readme Green Travel </h1>
 
 <h2> Description </h2>
-Đây là 1 static website đơn giản về du lịch.
-Bằng những kiến thức đã được học và theo yêu cầu tôi đã code website này. Website Green Travel không sử dụng database !
+BLOG VIETNAM TRAVEL với mong muốn chia sẻ những bài viết, hình ảnh, thông tin, kinh nghiệm du lịch ở Việt Nam. Xây dựng website tin tức du lịch không chỉ giúp cho người dùng dễ dàng tìm kiếm thông tin hữu ích về các địa điểm du lịch, văn hóa, ẩm thực địa phương mà còn giúp một phần không nhỏ vào xây dựng quảng bá du lịch Việt Nam ra ngoài thế giới.
 
 <h2> Languages </h2>
-• HTML, CSS, Javascrip <br>
+<p> • PHP, MySQL </p>
+<p> • HTML (HTML5), CSS (CSS3), JavaScript, Bootstrap, JQuery </p>
 
 <h2> Author </h2>
 👤leeun22 <br> <br>
@@ -27,3 +27,11 @@ Bằng những kiến thức đã được học và theo yêu cầu tôi đã c
 <p align="center">
 <img max-width: 100% align="center" src="https://user-images.githubusercontent.com/117708296/220162015-45fb8ce5-6c3a-41d3-aa19-77893f26f698.png">
 </p>
+
+![giao-dien-tin-tuc](https://github.com/leeun22/GREEN-TRAVEL/assets/117708296/7105e153-fe38-4cda-8a58-6183a0020174)
+
+![giao-dien-tin-tuc2](https://github.com/leeun22/GREEN-TRAVEL/assets/117708296/5c4352d8-8007-45c6-a2c0-fdb27f32a5fc)
+
+![giao-dien-tin-tuc3](https://github.com/leeun22/GREEN-TRAVEL/assets/117708296/0763185a-fcf8-43ca-8344-18c7ca5e6b42)
+
+
