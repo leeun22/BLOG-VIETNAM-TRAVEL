@@ -15,12 +15,12 @@ body {
     position: fixed;
     z-index: 3;
     width: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
 }
-
-
-/*.menu .open {
-  background-color: blueviolet;
-} */
 
 .menu:after {
     content: '';
@@ -29,35 +29,26 @@ body {
 }
 
 .menu .logo {
-    float: left;
-    padding: 20px;
-    display: block;
-    position: relative;
-    left: 200px;
+    width: 10%;
     cursor: pointer;
+    text-align: center;
 }
 
 .menu ul {
-    /*đẩy khối ul sang phải*/
-    float: right;
     list-style: none;
-    /*bỏ style của list li*/
-    margin-right: 200px;
     font-weight: bold;
-}
-
-.menu ul li {
-    /*đẩy các li lên cùng 1 hàng*/
-    float: left;
-    display: inline-block;
-    margin: 0 15px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 .menu ul li a {
     text-decoration: none;
     color: rgb(0, 0, 0);
-    position: relative;
-    top: 30px;
     font-size: 16px;
     padding: 8px 15px;
 }
@@ -79,8 +70,11 @@ body {
     display: none
 }
 
-img {
+.slideshow-container .fade img {
     vertical-align: middle;
+    object-fit: cover;
+    object-position: 50% 50%;
+    height: 600px;
 }
 
 
@@ -108,6 +102,7 @@ img {
     font-size: 18px;
     transition: 0.6s ease;
     border-radius: 0 3px 3px 0;
+    -webkit-user-select: none;
     user-select: none;
 }
 
@@ -224,11 +219,15 @@ img {
 /*----------------Footer---------------------*/
 
 .Footer {
+    border: 1px solid #f1eeee;
     text-align: center;
     justify-content: space-around;
     background-color: #f1eeee;
-    height: 140px;
     color: black;
+}
+
+.footer-list {
+    margin: 0 auto;
 }
 
 .footer_item {
@@ -240,4 +239,35 @@ img {
 
 .footer_p {
     font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+    .menu ul {
+        width: 90%;
+    }
+    .app-heading h3,
+    #title-kp-2,
+    #title-dt-2,
+    .section-sub-heading {
+        font-size: 28px;
+    }
+    .slideshow-container .fade img {
+        height: 550px;
+    }
+}
+
+@media screen and (max-width: 735px) {
+    .menu ul li a {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+    .slideshow-container .fade img {
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .slideshow-container .fade img {
+        height: 400px;
+    }
 }
