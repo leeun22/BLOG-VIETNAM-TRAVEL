@@ -9,7 +9,7 @@ Blog Vietnam Travel with the desire to share articles, pictures, information and
 
 <h2> Author </h2>
 👤leeun22 <br> <br>
-• Github: <a href = "https://leeun22.github.io/GREEN-TRAVEL/"> @leeun22 </a> <br>
+• Github: <a href = "https://github.com/leeun22"> @leeun22 </a> <br>
 
 <h2> Link </h2>
 • Link demo: <a href = "https://leeun22.github.io/BLOG-VIETNAM-TRAVEL/"> Blog VietNam Travel </a> <br>
