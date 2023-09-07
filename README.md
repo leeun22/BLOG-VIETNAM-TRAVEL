@@ -25,7 +25,7 @@ BLOG VIETNAM TRAVEL với mong muốn chia sẻ những bài viết, hình ảnh
 <img max-width: 100% align="center" src="https://user-images.githubusercontent.com/117708296/220161984-e919fce4-ce5a-4cbb-9203-7604ffefc92b.png">
 </p>
 <p align="center">
-<img max-width: 100% align="center" src="https://user-images.githubusercontent.com/117708296/220162015-45fb8ce5-6c3a-41d3-aa19-77893f26f698.png">
+<img max-width: 100% align="center" src="https://github.com/leeun22/GREEN-TRAVEL/assets/117708296/c493fca9-18f4-4dbd-b4cd-885c183ddd61">
 </p>
 
 ![giao-dien-tin-tuc](https://github.com/leeun22/GREEN-TRAVEL/assets/117708296/7105e153-fe38-4cda-8a58-6183a0020174)
