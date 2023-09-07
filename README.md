@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to readme BLOG VIETNAM TRAVEL </h1>
 
 <h2> Description </h2>
-BLOG VIETNAM TRAVEL với mong muốn chia sẻ những bài viết, hình ảnh, thông tin, kinh nghiệm du lịch ở Việt Nam. Xây dựng website tin tức du lịch không chỉ giúp cho người dùng dễ dàng tìm kiếm thông tin hữu ích về các địa điểm du lịch, văn hóa, ẩm thực địa phương mà còn giúp một phần không nhỏ vào xây dựng quảng bá du lịch Việt Nam ra ngoài thế giới.
+Blog Vietnam Travel with the desire to share articles, pictures, information and experiences travel in Vietnam. Building tourism news websites not only helps users easily find useful information about tourist destinations, cultural, cuisine, but also helps to part from the promotion of tourism in Vietnam.
 
 <h2> Languages </h2>
 <p> • PHP, MySQL </p>
