@@ -12,7 +12,7 @@ BLOG VIETNAM TRAVEL với mong muốn chia sẻ những bài viết, hình ảnh
 • Github: <a href = "https://leeun22.github.io/GREEN-TRAVEL/"> @leeun22 </a> <br>
 
 <h2> Link </h2>
-• Link: <a href = "https://leeun22.github.io/SABLANCA/"> Green Travel </a> <br>
+• Link demo: <a href = "https://leeun22.github.io/SABLANCA/"> Green Travel </a> <br>
 
 <h2> Display </h2>
 <p align="center">
